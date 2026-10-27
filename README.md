@@ -1,0 +1,1 @@
+# snapcut-releases
